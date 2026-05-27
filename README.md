@@ -30,5 +30,15 @@ To run this backend locally:
 3. Configure environment variables
 4. Start the development server
 
+Method Route            What it does
+GET     /               Health check
+GET     /about          Your basic info
+GET     /skills         Your skills list
+POST    /contact        Sends contact email
+GET     /visitors       Get visitor count
+POST    /visitors       Increment visitor count
+GET     /testimonials   Fetch all testimonials
+POST    /testimonials   Add a new testimonial
+
 ## API Endpoints
 All endpoints are documented and available for integration with the portfolio frontend application.
