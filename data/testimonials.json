@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Smith",
+    "role": "Project Manager",
+    "message": "Incredibly talented developer. Delivered the project on time and exceeded expectations!",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Mike Johnson",
+    "role": "Startup Founder",
+    "message": "Built our entire frontend from scratch. Clean code, great communication throughout.",
+    "date": "2024-02-20"
+  },
+  {
+    "id": 3,
+    "name": "Emily Davis",
+    "role": "Tech Lead",
+    "message": "A true professional. Solved complex problems with ease and always delivered high-quality work.",
+    "date": "2025-03-10"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "role": "Product Owner",
+    "message": "Fantastic experience working together. The project was a huge success thanks to their expertise.",
+    "date": "2025-04-05"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Lee",
+    "role": "UI Designer",
+    "message": "Great collaborator, always open to feedback and very detail oriented.",
+    "date": "2026-05-27"
+  }
+]
