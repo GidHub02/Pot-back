@@ -11,7 +11,7 @@ const testimonialsPath = path.join(__dirname, 'data/testimonials.json')
 const app = express()
 
 // --- Middleware ---
-app.use(cors())
+//app.use(cors())
 app.use(cors({
   origin: process.env.FRONTEND_URL || 'http://localhost:5173'
 }))
